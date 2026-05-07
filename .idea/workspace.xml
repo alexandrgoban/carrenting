@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="342b8454-e8d5-4410-9a2d-1de69379bc13" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/api.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/e2e.spec.js" afterDir="false" />
-    </list>
+    <list default="true" id="342b8454-e8d5-4410-9a2d-1de69379bc13" name="Changes" comment="First commit of the project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,9 +23,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {}
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/alexandrgoban/carrenting.git",
+    "accountId": "cce92dd2-641d-4670-ab23-acb57a83072f"
+  }
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
@@ -61,7 +68,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "javascript.preferred.runtime.type.id": "node",
     "junie.onboarding.icon.badge.shown": "true",
     "node.js.detected.package.eslint": "true",
@@ -168,12 +175,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1777919051078</updated>
-      <workItem from="1777919052138" duration="35598000" />
+      <workItem from="1777919052138" duration="36159000" />
     </task>
+    <task id="LOCAL-00001" summary="First commit of the project">
+      <option name="closed" value="true" />
+      <created>1778194479128</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1778194479128</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit of the project" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit of the project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
