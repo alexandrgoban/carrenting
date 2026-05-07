@@ -30,14 +30,19 @@ export default defineConfig({
   reporter: 'html',
   /* Shared settings for all the projects below. See https://playwright.dev/docs/api/class-testoptions. */
   use: {
+    video: 'on',
+    /* Робити скріншот при падінні */
+    screenshot: 'only-on-failure',
+    /* Трейс-файл (дуже крута штука для дебагу) */
+
     timeout: 70 * 1000,
-    headless: false,
+    headless: true,
     /* Base URL to use in actions like `await page.goto('')`. */
     // baseURL: 'http://localhost:3000',
 
     /* Collect trace when retrying the failed test. See https://playwright.dev/docs/trace-viewer */
-    trace: 'retain-on-failure',
-    screenshot: 'retain-on-failure',
+    trace: 'on',
+
   },
 
   /* Configure projects for major browsers */
